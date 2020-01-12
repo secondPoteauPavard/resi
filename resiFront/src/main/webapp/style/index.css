@@ -1,0 +1,18 @@
+
+
+#wrapperBtn {
+	position:absolute;
+	right:50px;
+}
+
+
+#divTexte {
+	text-align:center;
+	padding-top:40px;
+}
+
+#divRecherche {
+	max-width:70%;
+	padding-top:60px;
+}
+
